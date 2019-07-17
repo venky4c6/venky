@@ -1,7 +1,4 @@
 welcome sony
 jhdsfjfladskfdsf
-<<<<<<< HEAD
 jk,zxcjdsfj
-=======
 uiroerjsd fdf
->>>>>>> dev
